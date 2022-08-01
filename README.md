@@ -2,9 +2,9 @@
 
 [![](https://el-psy-congroo-counter.glitch.me/count.svg)](https://glitch.com/~el-psy-congroo-counter)
 
-# Hi, I'm cxyfreedom
+# Hi, I'm Pravin
 
-A senior backend developer from India, based in Pune
+A Data Science Associate @ ZS from India, based in Pune
 
 ## About Me
 
