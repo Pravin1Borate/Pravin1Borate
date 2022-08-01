@@ -4,7 +4,7 @@
 
 # Hi, I'm cxyfreedom
 
-A senior backend developer from China, based in Shanghai
+A senior backend developer from India, based in Pune
 
 ## About Me
 
