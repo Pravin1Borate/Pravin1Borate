@@ -1,7 +1,3 @@
-# Visitors
-
-[![](https://el-psy-congroo-counter.glitch.me/count.svg)](https://glitch.com/~el-psy-congroo-counter)
-
 # Hi, I'm Pravin
 
 A Data Science Associate @ ZS from India, based in Pune
@@ -10,9 +6,9 @@ A Data Science Associate @ ZS from India, based in Pune
 
 - 🌱 I’m currently learning Advance Data Science @ Scaler Academy
 
-- 📝 I regulary write articles on [![Blog](https://1pravin-borate.medium.com/)](https://1pravin-borate.medium.com/)
+- 📝 I regulary write articles on [![Blog](https://1pravin-borate.medium.com/)](https://medium.com/)
 
-- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:cxydfreedom@gmail.com) [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/cxyfreedom)
+- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:1pravin.borate@gmail.com) [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/PravinBorate5)
 
 ## Operating System & Tools
 
