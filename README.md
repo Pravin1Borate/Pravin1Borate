@@ -8,9 +8,9 @@ A Data Science Associate @ ZS from India, based in Pune
 
 ## About Me
 
-- 🌱 I’m currently learning [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
+- 🌱 I’m currently learning Advance Data Science @ Scaler Academy
 
-- 📝 I regulary write articles on [![Blog](https://img.shields.io/badge/-reishin.me-FF4088?style=for-the-badge&logo=Hugo&logoColor=ffffff)](https://reishin.me)
+- 📝 I regulary write articles on [![Blog](https://1pravin-borate.medium.com/)](https://1pravin-borate.medium.com/)
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:cxydfreedom@gmail.com) [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/cxyfreedom)
 
