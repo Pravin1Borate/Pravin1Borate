@@ -21,11 +21,11 @@ A Data Science Associate @ ZS from India, based in Pune
 <br></br>
 ## 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [MLflow -Open Source Platform for machine learning life cycle](https://1pravin-borate.medium.com/mlflow-open-source-platform-for-machine-learning-life-cycle-af9e0723540?source=rss-c5ace5443708------2)
 - [Basic’s of Natural Language Processing](https://1pravin-borate.medium.com/basics-of-natural-language-processing-94744be66239?source=rss-c5ace5443708------2)
 - [K-Nearest Neighbors for classification](https://1pravin-borate.medium.com/k-nearest-neighbors-for-classification-666744d5bc47?source=rss-c5ace5443708------2)
 - [T-SNE Dimensionality Reduction](https://1pravin-borate.medium.com/t-sne-dimensionality-reduction-5b554bba2077?source=rss-c5ace5443708------2)
 - [Principal Component Analysis &lpar;PCA&rpar;](https://1pravin-borate.medium.com/principal-component-analysis-pca-efc978c8037d?source=rss-c5ace5443708------2)
-- [Imbalanced Data: How to handle In Classification Problems.](https://1pravin-borate.medium.com/imbalanced-data-how-to-handle-in-classification-problems-9c5a70508bd2?source=rss-c5ace5443708------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
