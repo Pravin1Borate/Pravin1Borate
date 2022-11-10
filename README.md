@@ -2,6 +2,10 @@
 
 A Data Science Associate @ ZS from India, based in Pune
 
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="600" height="300"/>
+</div>
+
 ## About Me
 
 - 🌱 I’m currently learning Advance Data Science @ Scaler Academy
