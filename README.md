@@ -25,7 +25,7 @@ A Data Science Associate @ ZS from India, based in Pune
 <br></br>
 ## 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [MLflow -Open Source Platform for machine learning life cycle](https://1pravin-borate.medium.com/mlflow-open-source-platform-for-machine-learning-life-cycle-af9e0723540?source=rss-c5ace5443708------2)
+- [MLflow -Open Source Platform for machine learning life cycle](https://towardsdev.com/mlflow-open-source-platform-for-machine-learning-life-cycle-af9e0723540?source=rss-c5ace5443708------2)
 - [Basic’s of Natural Language Processing](https://1pravin-borate.medium.com/basics-of-natural-language-processing-94744be66239?source=rss-c5ace5443708------2)
 - [K-Nearest Neighbors for classification](https://1pravin-borate.medium.com/k-nearest-neighbors-for-classification-666744d5bc47?source=rss-c5ace5443708------2)
 - [T-SNE Dimensionality Reduction](https://1pravin-borate.medium.com/t-sne-dimensionality-reduction-5b554bba2077?source=rss-c5ace5443708------2)
