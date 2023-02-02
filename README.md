@@ -8,7 +8,7 @@ A Data Science Associate @ ZS from India, based in Pune
 
 ## About Me
 
-- 🌱 I’m currently learning Advance Data Science @ Scaler Academy
+- 🌱 I’m currently learning Advance Data Science
 
 - 📝 I regulary write articles on [![Blog](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@1pravin-borate)
 
