@@ -25,7 +25,7 @@ A Data Science Associate @ ZS from India, based in Pune
 <br></br>
 ## 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Prompt Design in Vertex AI: A Deep Dive for AI Practitioners](https://1pravin-borate.medium.com/mastering-prompt-design-in-vertex-ai-a-deep-dive-for-ai-practitioners-a876d1dcc9eb?source=rss-c5ace5443708------2)
+- [Mastering Prompt Design in Vertex AI: A Deep Dive for AI Practitioners](https://towardsdev.com/mastering-prompt-design-in-vertex-ai-a-deep-dive-for-ai-practitioners-a876d1dcc9eb?source=rss-c5ace5443708------2)
 - [RAG Fusion: Enhancing Retrieval-Augmented Generation for Better AI Responses](https://towardsdev.com/rag-fusion-enhancing-retrieval-augmented-generation-for-better-ai-responses-6e91ddeb1614?source=rss-c5ace5443708------2)
 - [MLflow -Open Source Platform for machine learning life cycle](https://towardsdev.com/mlflow-open-source-platform-for-machine-learning-life-cycle-af9e0723540?source=rss-c5ace5443708------2)
 - [Basic’s of Natural Language Processing](https://1pravin-borate.medium.com/basics-of-natural-language-processing-94744be66239?source=rss-c5ace5443708------2)
