@@ -1,6 +1,6 @@
 # Hi, I'm Pravin
 
-A Data Science Associate @ ZS from India, based in Pune
+A Senior Data Scientist @ Saama Technologies from India, based in Pune
 
 <div align="center">
   <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="600" height="300"/>
