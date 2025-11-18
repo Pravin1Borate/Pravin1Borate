@@ -25,11 +25,11 @@ A Senior Data Scientist @ Saama Technologies from India, based in Pune
 <br></br>
 ## 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding LeNet for Brain Tumor Classification — Explained Step by Step &lpar;with PyTorch Code&rpar;](https://1pravin-borate.medium.com/understanding-lenet-for-brain-tumor-classification-explained-step-by-step-with-pytorch-code-19f07aecf600?source=rss-c5ace5443708------2)
 - [Unlocking LangChain: Text Splitting Methodologies for Retrieval](https://towardsdev.com/unlocking-langchain-text-splitting-methodologies-for-retrieval-fcb35e442778?source=rss-c5ace5443708------2)
 - [Unlocking LangChain: The Ultimate Document Loader Handbook](https://towardsdev.com/unlocking-langchain-the-ultimate-document-loader-handbook-59de9eb8d51f?source=rss-c5ace5443708------2)
 - [RAG: An Introduction to Retrieval-Augmented Generation](https://towardsdev.com/rag-an-introduction-to-retrieval-augmented-generation-86d200d073fa?source=rss-c5ace5443708------2)
 - [Mastering Prompt Design in Vertex AI: A Deep Dive for AI Practitioners](https://towardsdev.com/mastering-prompt-design-in-vertex-ai-a-deep-dive-for-ai-practitioners-a876d1dcc9eb?source=rss-c5ace5443708------2)
-- [RAG Fusion: Enhancing Retrieval-Augmented Generation for Better AI Responses](https://towardsdev.com/rag-fusion-enhancing-retrieval-augmented-generation-for-better-ai-responses-6e91ddeb1614?source=rss-c5ace5443708------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
