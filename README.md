@@ -25,11 +25,11 @@ A Senior Data Scientist @ Saama Technologies from India, based in Pune
 <br></br>
 ## 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Multi-Agent vs Single-Agent Architecture: A Production Decision Framework](https://pub.towardsai.net/multi-agent-vs-single-agent-architecture-a-production-decision-framework-0d3b1d0fe337?source=rss-c5ace5443708------2)
 - [RAG is Not Enough: When Retrieval Augmented Generation Fails in Production](https://pub.towardsai.net/rag-is-not-enough-when-retrieval-augmented-generation-fails-in-production-9dd2a7aa92c1?source=rss-c5ace5443708------2)
 - [Understanding LeNet for Brain Tumor Classification — Explained Step by Step &lpar;with PyTorch Code&rpar;](https://towardsdev.com/understanding-lenet-for-brain-tumor-classification-explained-step-by-step-with-pytorch-code-19f07aecf600?source=rss-c5ace5443708------2)
 - [Unlocking LangChain: Text Splitting Methodologies for Retrieval](https://towardsdev.com/unlocking-langchain-text-splitting-methodologies-for-retrieval-fcb35e442778?source=rss-c5ace5443708------2)
 - [Unlocking LangChain: The Ultimate Document Loader Handbook](https://towardsdev.com/unlocking-langchain-the-ultimate-document-loader-handbook-59de9eb8d51f?source=rss-c5ace5443708------2)
-- [RAG: An Introduction to Retrieval-Augmented Generation](https://towardsdev.com/rag-an-introduction-to-retrieval-augmented-generation-86d200d073fa?source=rss-c5ace5443708------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
